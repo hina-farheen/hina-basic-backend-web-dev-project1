@@ -1,0 +1,16 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "my node and EXperss Server BMI Calculator",
+  "main": "server.js",
+  "scripts": {
+    "test": "git repository",
+    "start": "node server.js"
+  },
+  "author": "Hina Farheen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
